@@ -7,7 +7,7 @@
 <table border="0">
 <tr>
 <td align=center>
-<img src="images/Intermountain.gif">
+<img src="images/Intermountain.jpg">
 </td>
 <td>
 <h1>Hello World from Intermountain Sample Application JSP Page</h1>
