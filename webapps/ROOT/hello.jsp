@@ -10,7 +10,7 @@
 <img src="images/Intermountain.jpg">
 </td>
 <td>
-<h1>Hello World from Intermountain Sample Application JSP Page</h1>
+<h1>Hello World from Intermountain ROMS Sample Application JSP Page</h1>
 This is the output of a JSP page that is part of the Hello, World
 application.
 </td>
